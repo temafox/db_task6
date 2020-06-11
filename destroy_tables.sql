@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS examination;
+DROP TABLE IF EXISTS prescription;
+DROP TABLE IF EXISTS disease_state;
+DROP TABLE IF EXISTS vet_specialty;
+DROP TABLE IF EXISTS specialty;
+DROP TABLE IF EXISTS vet;
+DROP TABLE IF EXISTS cat_disease_history;
+DROP TABLE IF EXISTS disease;
+DROP TABLE IF EXISTS cat;
+DROP TABLE IF EXISTS master;
